@@ -1,0 +1,7 @@
+<?php
+echo "<h1>Hello in PHP</h1>";
+echo "Hello, world";
+print "<br>";
+echo "welcome to PHP class";
+phpinfo();
+?>
